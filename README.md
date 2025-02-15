@@ -15,7 +15,7 @@ Our content team is reviewing our storage capacity, which is nearing its limit d
 ###
 <p align="center">
 Extracting, Sorting, Filtering, and Ranking Data: <br/>
-<img width="410" alt="SQL Project 1" src="https://github.com/jciwilliams1/SQL_Techniques/assets/152811710/26000ba2-9312-4674-af63-85ce2aee8902">
+<img width="203" alt="Image" src="https://github.com/user-attachments/assets/6890fef1-daa2-4d67-993e-a9b23dfb4a9f" />
 <br />
 <br />
 
