@@ -167,7 +167,7 @@ Please provide a list of customers who have given feedback. We are only interest
 
 ###
 <p align="center">
-Inner Joins: <br/>
+Joins: <br/>
 <img width="284" alt="Image" src="https://github.com/user-attachments/assets/aabd21f7-6be3-4b93-ac0f-cafd223691f1" />
 <br />
 <br />
@@ -181,7 +181,7 @@ For this promotion, please ensure the list includes the following customer detai
 
 ###
 <p align="center">
-Inner Joins and Calculated Fields: <br/>
+Joins and Calculated Fields: <br/>
 <img width="365" alt="Image" src="https://github.com/user-attachments/assets/e31d592e-831f-4720-82af-aa9e80111545" />
 <br />
 <br />
@@ -193,7 +193,7 @@ Provide a list of default mortgage accounts for millennial customers located in 
 
 ###
 <p align="center">
-Inner Joins: <br/>
+Joins: <br/>
 <img width="362" alt="Image" src="https://github.com/user-attachments/assets/81f6c01e-8fa6-44e4-83d5-b4d721dd7d12" />
 <br />
 <br />
@@ -206,7 +206,7 @@ Provide a list of non-mortgage customers who opened accounts within the last 4 y
 
 ###
 <p align="center">
-Inner Joins: <br/>
+Joins: <br/>
 <img width="470" alt="Image" src="https://github.com/user-attachments/assets/734a08ff-89d5-41a3-91d6-05e15a5ee1e9" />
 <br />
 <br />
